@@ -1,0 +1,32 @@
+[
+  {
+    "id": "1",
+    "name": "John Doe",
+    "class": "Form 3C",
+    "grade": "A"
+  },
+  {
+    "id": "2",
+    "name": "Mary Smith",
+    "class": "Form 3B",
+    "grade": "B+"
+  },
+  {
+    "id": "3",
+    "name": "Alex Johnson",
+    "class": "Form 2A",
+    "grade": "A-"
+  },
+  {
+    "id": "3314eb62-4198-442e-a712-1d376181bc0b",
+    "name": "Alhassan Salifu",
+    "class": "FORM 3A",
+    "grade": "A+"
+  },
+  {
+    "id": "77858bb4-1b98-478a-8f5c-73b8fc11582b",
+    "name": "Sulemana Mohammed",
+    "class": "Form 3C",
+    "grade": "A"
+  }
+]
